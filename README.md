@@ -1,6 +1,10 @@
 ### 👋 Hello there, My name is Or Peretz!
 
-- 
+- 👨‍🎓 I’m currently a student in the Computer Science field at H.I.T - "Holon Institute of Technology".
+- I enjoy Gaming 🎮, Programming 🖥️ and Dad jokes 😆.
+- 🌱 I’m currently learning - Python programming and Game developing using Unity Engine (C#) so stay tuned for cool projects!
+- 📫 How to reach me: https://www.linkedin.com/in/or-peretz/
+- 😆 Fun fact about me: I'm a Dog person and I own the cutest Shih-tzu puppy! - wanna see him? reach me out!
 
 <!--
 **OrPerDev/OrPerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
