@@ -1,10 +1,11 @@
 ### 👋 Hello there, My name is Or Boaz Peretz!
 
-- 👨‍🎓 I’m currently a student in the Computer Science field at H.I.T - "Holon Institute of Technology".
+- 🔭 I’m currently a QA Automation engineer
+- 👨‍🎓 I've graduated a degree in the Computer Science field at H.I.T - "Holon Institute of Technology".
 - I enjoy Gaming 🎮, Programming 🖥️ and Dad jokes 😆.
-- 🌱 I’m currently learning - Python programming and Web development so stay tuned for cool projects!
+- 🌱 I’m currently learning - More in the automation fields and game development using Unreal Engine 5!
 - 📫 How to reach me: https://www.linkedin.com/in/or-peretz/
-- 😆 Fun fact about me: I'm a Dog person and I own the cutest Shih-Tzu puppy! - wanna see him? reach me out!
+- 😆 Fun fact about me: I fall asleep when I hear the sound of a vacuum cleaner :)
 
 <!--
 **OrPerDev/OrPerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
